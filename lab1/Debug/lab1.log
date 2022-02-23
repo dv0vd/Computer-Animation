@@ -1,0 +1,16 @@
+﻿  Source.cpp
+c:\users\vd\source\repos\lab32\lab1\source.cpp(181): warning C4305: 'argument': truncation from 'double' to 'Gdiplus::REAL'
+c:\users\vd\source\repos\lab32\lab1\source.cpp(184): warning C4305: 'argument': truncation from 'double' to 'Gdiplus::REAL'
+c:\users\vd\source\repos\lab32\lab1\source.cpp(187): warning C4305: 'argument': truncation from 'double' to 'Gdiplus::REAL'
+c:\users\vd\source\repos\lab32\lab1\source.cpp(190): warning C4305: 'argument': truncation from 'double' to 'Gdiplus::REAL'
+c:\users\vd\source\repos\lab32\lab1\source.cpp(193): warning C4305: 'argument': truncation from 'double' to 'Gdiplus::REAL'
+c:\users\vd\source\repos\lab32\lab1\source.cpp(199): warning C4305: 'argument': truncation from 'double' to 'Gdiplus::REAL'
+c:\users\vd\source\repos\lab32\lab1\source.cpp(202): warning C4305: 'argument': truncation from 'double' to 'Gdiplus::REAL'
+c:\users\vd\source\repos\lab32\lab1\source.cpp(205): warning C4305: 'argument': truncation from 'double' to 'Gdiplus::REAL'
+c:\users\vd\source\repos\lab32\lab1\source.cpp(211): warning C4305: 'argument': truncation from 'double' to 'Gdiplus::REAL'
+c:\users\vd\source\repos\lab32\lab1\source.cpp(216): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\vd\source\repos\lab32\lab1\source.cpp(218): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+c:\users\vd\source\repos\lab32\lab1\source.cpp(288): warning C4244: 'argument': conversion from 'Gdiplus::REAL' to 'INT', possible loss of data
+c:\users\vd\source\repos\lab32\lab1\source.cpp(321): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\vd\source\repos\lab32\lab1\source.cpp(401): warning C4715: 'wWinMain': not all control paths return a value
+  lab1.vcxproj -> C:\Users\VD\source\repos\lab32\Debug\lab1.exe
